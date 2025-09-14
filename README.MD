@@ -25,13 +25,6 @@ Welcome to my Python practice repository! This repo contains various Jupyter not
 
 ---
 
-## 🚀 Coming Soon
-
-* `recursion.ipynb` — Introduction to recursion with examples.
-* `OOP.ipynb` — Object-Oriented Programming: classes, objects, inheritance, etc.
-
----
-
 ## 🛠 How to Use
 
 All notebooks were created using Google Colab. You can open and run them directly in your browser using the Colab environment.
