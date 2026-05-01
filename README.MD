@@ -7,9 +7,9 @@ Welcome to my Python practice repository! This repo contains various Jupyter not
 
 ---
 
-## 📂 Contents
+##  Contents
 
-### ✅ Python Built-in Data Types & Their Methods
+###  Python Built-in Data Types & Their Methods
 
 * `All_String_methods.ipynb` — Covers all important string methods with examples.
 * `ALL_tuples_methods.ipynb` — Demonstrates tuple methods and use cases.
@@ -17,7 +17,7 @@ Welcome to my Python practice repository! This repo contains various Jupyter not
 * `All_dictionary_methods.ipynb` — Dictionary methods explained with examples.
 * `All_set_methods.ipynb` — All important set operations and methods.
 
-### 🔁 Looping & Control Flow
+###  Looping & Control Flow
 
 * `for_loop_practice.ipynb` — Basic `for` loop implementations.
 * `while_loop_practice_(1).ipynb` — Practice problems using `while` loops.
@@ -31,7 +31,7 @@ All notebooks were created using Google Colab. You can open and run them directl
 
 ---
 
-## 💡 Purpose
+##  Purpose
 
 This repository is meant for:
 
@@ -42,7 +42,7 @@ This repository is meant for:
 
 ---
 
-## 📬 Contributions
+## Contributions
 
 This is a personal learning project, but feel free to fork, suggest improvements, or open issues for collaboration!
 
